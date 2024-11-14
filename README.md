@@ -4,9 +4,6 @@ An active link feature further enhances user experience by visibly highlighting 
 
 Below, I’ll provide a free source code for a responsive sidebar menu with an active link effect using HTML and CSS.
 
-## GitHub Source
-*(Provide a link to the source code here)*
-
 ## Features
 - **Compatibility**: Works with all modern browsers and is optimized for mobile and desktop display.
 - **Clean Code**: The code is well-organized and commented, making it easy to understand, even for beginners.
